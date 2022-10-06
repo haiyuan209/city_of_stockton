@@ -1,0 +1,52 @@
+/**
+
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+font-family: 'Piazzolla', serif;
+
+*/
+.title-center{
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.title-center{
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+body {
+    text-align: center;
+    font-family: 'Piazzolla', serif;
+    background:
+
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+   
+}
+img {
+    width: 500px;
+}
+
+.pi1{
+    width:500;
+    height:500;
+}
+.pi2{
+
+    width:500;
+    height:500;
+}
+.pi3{
+
+    width:500;
+    height:500;
+}
